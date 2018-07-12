@@ -1,6 +1,8 @@
 # Monopoly
 A java implementation of the popular board game Monopoly.
 
+![Monopoly](https://github.com/eightfour/Monopoly/blob/master/images/screenshot.png)
+
 ## Built With
 * [Java Swing](https://docs.oracle.com/javase/7/docs/api/javax/swing/package-summary.html) - GUI-Toolkit
 
