@@ -11,7 +11,7 @@ A java implementation of the popular board game Monopoly.
 * **[kon4](https://github.com/eightfour)** - *Developer*
 * **[Prometheus1995](https://github.com/Prometheus1995)** - *Developer*
 * **[Mehmet](https://gitlab.com/MehmetAs)** - *Developer*
-* **Burak** - *Developer*
+* **[Burak](https://gitlab.com/Iscier)** - *Developer*
 
 ## License
 
